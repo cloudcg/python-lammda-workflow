@@ -1,7 +1,7 @@
 # python-lammda-workflow
 > 在aws 实例上部署程序，通过aws云函数lammda获取返回参数，再通过手机快捷指令调用lammda函数得到想要的值。
 >
-[![LICENSE](https://img.shields.io/github/license/cloudcg.svg)]([https://github.com/cloudcg/blob/main/LICENSE](https://github.com/cloudcg/python-lammda-workflow/blob/master/LICENSE))
+![GitHub License](https://img.shields.io/github/license/cloudcg/python-lammda-workflow)
 [![Language](https://img.shields.io/badge/Language-python-red.svg)](https://python.org/)
 
 ### 安装`V2ray`服务
